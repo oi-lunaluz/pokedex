@@ -1,3 +1,3 @@
 # pokedex
- Projeto de pokedex
-Em andamento 
+ Projeto de pokedex,
+em andamento 
